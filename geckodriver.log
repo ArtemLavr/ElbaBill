@@ -1,0 +1,1832 @@
+1634925075656	geckodriver	INFO	Listening on 127.0.0.1:60479
+1634925076162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34255" "-no-remote" "-profile" "/tmp/rust_mozprofileuEOffn"
+1634925087176	geckodriver	INFO	Listening on 127.0.0.1:43845
+1634925087187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35673" "-no-remote" "-profile" "/tmp/rust_mozprofileH75aRz"
+1634925087995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileH75aRz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35673/devtools/browser/fd01a31d-b535-4cf8-9a55-28efbad36041
+1634925088885	Marionette	INFO	Listening on port 45783
+1634925088905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634925090029	Marionette	INFO	Stopped listening on port 45783
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634925099113	geckodriver	INFO	Listening on 127.0.0.1:35355
+1634925099115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36819" "-no-remote" "-profile" "/tmp/rust_mozprofilez07vbR"
+1634925099827	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez07vbR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36819/devtools/browser/13733253-3c45-429b-a7a6-8652f3511c7f
+1634925100895	Marionette	INFO	Listening on port 45647
+1634925100945	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634925104376	Marionette	INFO	Stopped listening on port 45647
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634925315467	geckodriver	INFO	Listening on 127.0.0.1:33017
+1634925315470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44249" "-no-remote" "-profile" "/tmp/rust_mozprofilem9wKzV"
+1634925316176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem9wKzV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44249/devtools/browser/8d0f0f97-5133-4a37-83ed-bf7005a4dfbd
+1634925317176	Marionette	INFO	Listening on port 41505
+1634925317308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634925320369	Marionette	INFO	Stopped listening on port 41505
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634925363727	geckodriver	INFO	Listening on 127.0.0.1:46607
+1634925363738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36673" "-no-remote" "-profile" "/tmp/rust_mozprofileXb7K8F"
+1634925364555	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXb7K8F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36673/devtools/browser/77184433-847a-4471-844c-3bc0873a4f72
+1634925365545	Marionette	INFO	Listening on port 42001
+1634925365684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634925369138	Marionette	INFO	Stopped listening on port 42001
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634925389304	geckodriver	INFO	Listening on 127.0.0.1:43239
+1634925389306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53211" "-no-remote" "-profile" "/tmp/rust_mozprofileW7K17Q"
+1634925390028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW7K17Q/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53211/devtools/browser/3abe1862-6c37-4c6b-8344-97bfd6936fb4
+1634925390909	Marionette	INFO	Listening on port 43019
+1634925390923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634925391156	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634925397248	Marionette	INFO	Stopped listening on port 43019
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635200324085	geckodriver	INFO	Listening on 127.0.0.1:47959
+1635200324592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34677" "-no-remote" "-profile" "/tmp/rust_mozprofileQjXqQO"
+1635200325305	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQjXqQO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34677/devtools/browser/8321f8c3-6305-4999-8ae7-c0273088f71b
+1635200326264	Marionette	INFO	Listening on port 40879
+1635200326311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635200326606	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635200412564	geckodriver	INFO	Listening on 127.0.0.1:60227
+1635200412585	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55365" "-no-remote" "-profile" "/tmp/rust_mozprofilegDkvBz"
+1635200413315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegDkvBz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55365/devtools/browser/5abd9a88-afb1-46c1-b850-3245693f2d6c
+1635200414343	Marionette	INFO	Listening on port 39571
+1635200414422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635200423329	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635200612565	geckodriver	INFO	Listening on 127.0.0.1:39077
+1635200612569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40959" "-no-remote" "-profile" "/tmp/rust_mozprofileFji5P9"
+1635200613322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFji5P9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40959/devtools/browser/df014bae-27ad-4ff2-8238-c04311b4b9d5
+1635200615244	Marionette	INFO	Listening on port 40107
+1635200615287	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635200629993	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635200887874	Marionette	INFO	Stopped listening on port 40879
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://elba.kontur.ru"
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://elba.kontur.ru"
+1635201536539	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635201713145	geckodriver	INFO	Listening on 127.0.0.1:49199
+1635201713157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40429" "-no-remote" "-profile" "/tmp/rust_mozprofileqSqIWB"
+1635201713987	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqSqIWB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40429/devtools/browser/27764726-d960-47e9-adbf-27fbafb2916b
+1635201715005	Marionette	INFO	Listening on port 32821
+1635201715077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635201715299	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635201730001	Marionette	INFO	Stopped listening on port 32821
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635201918322	geckodriver	INFO	Listening on 127.0.0.1:42883
+1635201918333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51295" "-no-remote" "-profile" "/tmp/rust_mozprofile1tNlo8"
+1635201919176	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1tNlo8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51295/devtools/browser/524c567f-9379-47e0-993a-61019073c697
+1635201920003	Marionette	INFO	Listening on port 39331
+1635201920049	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635201920208	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635201986757	Marionette	INFO	Stopped listening on port 40107
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+Unflushed glGetGraphicsResetStatus: 0x92bb
+Gdk-Message: 13:15:20.961: firefox: Fatal IO error 1 (Operation not permitted) on X server :1.
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635264772941	geckodriver	INFO	Listening on 127.0.0.1:39093
+1635265165727	geckodriver	INFO	Listening on 127.0.0.1:59355
+1635265165734	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58399" "-no-remote" "-profile" "/tmp/rust_mozprofileF1g7vT"
+1635265166585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF1g7vT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58399/devtools/browser/e1a3f877-c126-43cf-adb1-047db7f81154
+1635265167843	Marionette	INFO	Listening on port 39569
+1635265167967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265168180	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265218658	Marionette	INFO	Stopped listening on port 39569
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265219375	geckodriver	INFO	Listening on 127.0.0.1:46871
+1635265219385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41911" "-no-remote" "-profile" "/tmp/rust_mozprofileTq731b"
+1635265220417	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTq731b/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41911/devtools/browser/ffb35149-4498-4561-8387-8572dd503000
+1635265221660	Marionette	INFO	Listening on port 38839
+1635265221705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265221869	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265272440	Marionette	INFO	Stopped listening on port 38839
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 7103, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FLPiQZ/firefox-93.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265273019	geckodriver	INFO	Listening on 127.0.0.1:34781
+1635265273023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50957" "-no-remote" "-profile" "/tmp/rust_mozprofilexX9yJh"
+1635265274125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexX9yJh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50957/devtools/browser/715b3618-90dd-4478-98c1-a62d8183e957
+1635265275334	Marionette	INFO	Listening on port 40339
+1635265275475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265275614	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265325600	Marionette	INFO	Stopped listening on port 40339
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265326174	geckodriver	INFO	Listening on 127.0.0.1:58203
+1635265326178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42811" "-no-remote" "-profile" "/tmp/rust_mozprofileoSAGBD"
+1635265327238	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoSAGBD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42811/devtools/browser/a4644f8a-7b3f-465f-9eaf-e56a5de083c5
+1635265328505	Marionette	INFO	Listening on port 39213
+1635265328620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265328836	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265378614	Marionette	INFO	Stopped listening on port 39213
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265379213	geckodriver	INFO	Listening on 127.0.0.1:40931
+1635265379218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45979" "-no-remote" "-profile" "/tmp/rust_mozprofileGNiqOa"
+1635265380235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGNiqOa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45979/devtools/browser/79366200-ea25-428d-8000-3b48827c2f91
+1635265381578	Marionette	INFO	Listening on port 40157
+1635265381653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265381852	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265432605	Marionette	INFO	Stopped listening on port 40157
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265433168	geckodriver	INFO	Listening on 127.0.0.1:41903
+1635265433172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38355" "-no-remote" "-profile" "/tmp/rust_mozprofileB9zijF"
+1635265434240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB9zijF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38355/devtools/browser/6622da0c-fb31-4eca-bff2-081faade2a5d
+1635265435393	Marionette	INFO	Listening on port 42697
+1635265435522	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265435698	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265491835	Marionette	INFO	Stopped listening on port 42697
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265492401	geckodriver	INFO	Listening on 127.0.0.1:36015
+1635265492405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52849" "-no-remote" "-profile" "/tmp/rust_mozprofileHpQmfh"
+1635265493316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHpQmfh/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52849/devtools/browser/3c2c1339-bf11-4f63-a5ab-112eb222e008
+1635265494484	Marionette	INFO	Listening on port 42791
+1635265494523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265494706	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265551554	Marionette	INFO	Stopped listening on port 42791
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265554159	geckodriver	INFO	Listening on 127.0.0.1:46741
+1635265554169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52597" "-no-remote" "-profile" "/tmp/rust_mozprofile7UprwR"
+1635265555077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7UprwR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52597/devtools/browser/0a2bf85f-4a17-4357-a1c9-2f08a1086232
+1635265556173	Marionette	INFO	Listening on port 39645
+1635265556188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265556647	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265606667	Marionette	INFO	Stopped listening on port 39645
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265607360	geckodriver	INFO	Listening on 127.0.0.1:54695
+1635265607371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54869" "-no-remote" "-profile" "/tmp/rust_mozprofilechLfOt"
+1635265608348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilechLfOt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54869/devtools/browser/a1b68ac1-5862-482f-bae3-38abe6f4e7ef
+1635265609412	Marionette	INFO	Listening on port 41203
+1635265609494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265609701	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265659506	Marionette	INFO	Stopped listening on port 41203
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265660074	geckodriver	INFO	Listening on 127.0.0.1:41659
+1635265660077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55975" "-no-remote" "-profile" "/tmp/rust_mozprofile9yFatV"
+1635265661076	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9yFatV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55975/devtools/browser/b92e6d24-59fe-4c1b-a3fc-365ccc16721c
+1635265662206	Marionette	INFO	Listening on port 44069
+1635265662324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265662493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635265726671	Marionette	INFO	Stopped listening on port 44069
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635265727259	geckodriver	INFO	Listening on 127.0.0.1:37021
+1635265727262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34443" "-no-remote" "-profile" "/tmp/rust_mozprofilesk6EMe"
+1635265728189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesk6EMe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34443/devtools/browser/685fac88-a327-4261-aeb4-b049722fbb24
+1635265729491	Marionette	INFO	Listening on port 46797
+1635265729606	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265729826	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265802029	geckodriver	INFO	Listening on 127.0.0.1:45867
+1635265802032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43737" "-no-remote" "-profile" "/tmp/rust_mozprofileNDytg1"
+1635265802933	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNDytg1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43737/devtools/browser/65711d0f-2717-4cb7-b443-3d04392fe8dc
+1635265804258	Marionette	INFO	Listening on port 38739
+1635265804366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265804564	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635265805124	Marionette	INFO	Stopped listening on port 46797
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265821172	geckodriver	INFO	Listening on 127.0.0.1:41979
+1635265821182	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38591" "-no-remote" "-profile" "/tmp/rust_mozprofileY3J3Ra"
+1635265822089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileY3J3Ra/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38591/devtools/browser/4dd2e343-e3fa-4451-8d90-857d8c023d18
+1635265823375	Marionette	INFO	Listening on port 43499
+1635265823411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265823624	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265840199	geckodriver	INFO	Listening on 127.0.0.1:38975
+1635265840203	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53333" "-no-remote" "-profile" "/tmp/rust_mozprofileBjwdm9"
+1635265841121	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBjwdm9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53333/devtools/browser/f1458bf0-636e-45ac-bb49-7761661cfd02
+1635265842442	Marionette	INFO	Listening on port 37877
+1635265842530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265842765	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265859373	geckodriver	INFO	Listening on 127.0.0.1:53911
+1635265859383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40759" "-no-remote" "-profile" "/tmp/rust_mozprofile650v19"
+1635265860259	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile650v19/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40759/devtools/browser/025f3297-f34d-4139-98f0-fd8b4fbfb748
+1635265861796	Marionette	INFO	Listening on port 44021
+1635265861932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265862103	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265878784	geckodriver	INFO	Listening on 127.0.0.1:49073
+1635265878795	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41981" "-no-remote" "-profile" "/tmp/rust_mozprofileeOMFkq"
+1635265879710	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeOMFkq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41981/devtools/browser/862fa240-840e-42e2-b8d7-9333ba0d4205
+1635265881370	Marionette	INFO	Listening on port 41389
+1635265881436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635265881650	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635265886368	Marionette	INFO	Stopped listening on port 41389
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265887928	Marionette	INFO	Stopped listening on port 44021
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10874, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FLPiQZ/firefox-93.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1635265887991	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265893076	Marionette	INFO	Stopped listening on port 37877
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10619, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FLPiQZ/firefox-93.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265896632	Marionette	INFO	Stopped listening on port 43499
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635265899689	Marionette	INFO	Stopped listening on port 38739
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266014614	geckodriver	INFO	Listening on 127.0.0.1:41037
+1635266014618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36335" "-no-remote" "-profile" "/tmp/rust_mozprofileRhhjwO"
+1635266015532	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRhhjwO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36335/devtools/browser/033e8719-11d2-4d05-bb2f-3d63e78fd4fb
+1635266016759	Marionette	INFO	Listening on port 39491
+1635266016871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266017059	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266066936	Marionette	INFO	Stopped listening on port 39491
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266067526	geckodriver	INFO	Listening on 127.0.0.1:38183
+1635266067529	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60841" "-no-remote" "-profile" "/tmp/rust_mozprofileJljZhl"
+1635266068468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJljZhl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60841/devtools/browser/16c81ad7-8a7c-4542-9f6c-7af072c26a54
+1635266069667	Marionette	INFO	Listening on port 37497
+1635266069759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266069970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266134243	Marionette	INFO	Stopped listening on port 37497
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635266134827	geckodriver	INFO	Listening on 127.0.0.1:39643
+1635266134830	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50939" "-no-remote" "-profile" "/tmp/rust_mozprofileYjCBF6"
+1635266135762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYjCBF6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50939/devtools/browser/f7a26422-081b-481b-9aed-bb9c7a218c88
+1635266137049	Marionette	INFO	Listening on port 44003
+1635266137157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266137340	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266187049	Marionette	INFO	Stopped listening on port 44003
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266187655	geckodriver	INFO	Listening on 127.0.0.1:43033
+1635266187659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49629" "-no-remote" "-profile" "/tmp/rust_mozprofilercJjGm"
+1635266188784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilercJjGm/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49629/devtools/browser/94cf1443-d24a-499d-aef8-ab6e098a30c7
+1635266190065	Marionette	INFO	Listening on port 33815
+1635266190227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266190428	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266240303	Marionette	INFO	Stopped listening on port 33815
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266240887	geckodriver	INFO	Listening on 127.0.0.1:52249
+1635266240891	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57275" "-no-remote" "-profile" "/tmp/rust_mozprofileJUI5A4"
+1635266241871	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJUI5A4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57275/devtools/browser/1620af6a-f7dd-44d3-aaa4-c45725ce08cf
+1635266242947	Marionette	INFO	Listening on port 38585
+1635266243010	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266243230	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266292937	Marionette	INFO	Stopped listening on port 38585
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266293539	geckodriver	INFO	Listening on 127.0.0.1:43439
+1635266293543	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50577" "-no-remote" "-profile" "/tmp/rust_mozprofilew1N7rM"
+1635266294544	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilew1N7rM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50577/devtools/browser/004a231f-bef6-4ab6-90bd-5bb87fc09fb7
+1635266295792	Marionette	INFO	Listening on port 38739
+1635266295870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266296053	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266345464	Marionette	INFO	Stopped listening on port 38739
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266346035	geckodriver	INFO	Listening on 127.0.0.1:36833
+1635266346039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59939" "-no-remote" "-profile" "/tmp/rust_mozprofileViffcR"
+1635266347041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileViffcR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59939/devtools/browser/d1b7e313-eb27-4c56-b4f3-3980b976edaa
+1635266348255	Marionette	INFO	Listening on port 33267
+1635266348359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266348512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266398356	Marionette	INFO	Stopped listening on port 33267
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635266398912	geckodriver	INFO	Listening on 127.0.0.1:59277
+1635266398915	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58449" "-no-remote" "-profile" "/tmp/rust_mozprofileyrPL9P"
+1635266399839	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyrPL9P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58449/devtools/browser/626eb1a1-92db-4925-8b2f-063882c9cc05
+1635266401069	Marionette	INFO	Listening on port 42555
+1635266401142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266401305	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266457714	Marionette	INFO	Stopped listening on port 42555
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266458288	geckodriver	INFO	Listening on 127.0.0.1:36885
+1635266458291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43567" "-no-remote" "-profile" "/tmp/rust_mozprofileHWHB3B"
+1635266459292	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHWHB3B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43567/devtools/browser/6e00d7f4-26a1-4042-ae2c-343da6da6375
+1635266460586	Marionette	INFO	Listening on port 45147
+1635266460625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266460816	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266510547	Marionette	INFO	Stopped listening on port 45147
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266511044	geckodriver	INFO	Listening on 127.0.0.1:45949
+1635266511055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35797" "-no-remote" "-profile" "/tmp/rust_mozprofile32esZt"
+1635266512073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile32esZt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35797/devtools/browser/84e97913-07e1-4cfa-99cb-97ce1048e150
+1635266513280	Marionette	INFO	Listening on port 34785
+1635266513391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266513562	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266564061	Marionette	INFO	Stopped listening on port 34785
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266564637	geckodriver	INFO	Listening on 127.0.0.1:50361
+1635266564640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40225" "-no-remote" "-profile" "/tmp/rust_mozprofiledLPurv"
+1635266565610	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledLPurv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40225/devtools/browser/3ddc52eb-2cc5-4577-8ce7-50d705e5926f
+1635266566634	Marionette	INFO	Listening on port 34519
+1635266566660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266566826	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635266616226	Marionette	INFO	Stopped listening on port 34519
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635266617939	geckodriver	INFO	Listening on 127.0.0.1:51793
+1635266617949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51027" "-no-remote" "-profile" "/tmp/rust_mozprofileoRqYo5"
+1635266618988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoRqYo5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51027/devtools/browser/79cc310f-86f7-4413-b762-139bc1c5092c
+1635266620334	Marionette	INFO	Listening on port 33931
+1635266620380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635266620544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635268892288	geckodriver	INFO	Listening on 127.0.0.1:60715
+1635268892291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48787" "-no-remote" "-profile" "/tmp/rust_mozprofilevMOod0"
+1635268893133	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevMOod0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48787/devtools/browser/440891af-3976-411a-9ab4-f794747e2193
+1635268894149	Marionette	INFO	Listening on port 45789
+1635268894229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635268894454	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635268921801	Marionette	INFO	Stopped listening on port 45789
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635268945585	geckodriver	INFO	Listening on 127.0.0.1:44925
+1635268945589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34355" "-no-remote" "-profile" "/tmp/rust_mozprofilejKB601"
+1635268946463	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejKB601/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34355/devtools/browser/f7a7ff2b-b064-4da3-bd1b-a62e393696f6
+1635268947565	Marionette	INFO	Listening on port 36017
+1635268947607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635268947781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269043370	Marionette	INFO	Stopped listening on port 36017
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269043946	geckodriver	INFO	Listening on 127.0.0.1:52449
+1635269043949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41735" "-no-remote" "-profile" "/tmp/rust_mozprofilea55ZwM"
+1635269044872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea55ZwM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41735/devtools/browser/de7a459d-4dc6-4a70-8872-dcd6bec822b4
+1635269046134	Marionette	INFO	Listening on port 39597
+1635269046174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269046314	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269103138	Marionette	INFO	Stopped listening on port 39597
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635269103725	geckodriver	INFO	Listening on 127.0.0.1:50457
+1635269103728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60763" "-no-remote" "-profile" "/tmp/rust_mozprofileCuhWyP"
+1635269104744	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCuhWyP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60763/devtools/browser/23db7703-03af-46e5-89f7-500d9ceac29f
+1635269105897	Marionette	INFO	Listening on port 44181
+1635269106919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269107101	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269189922	Marionette	INFO	Stopped listening on port 44181
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269190495	geckodriver	INFO	Listening on 127.0.0.1:37525
+1635269190499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45623" "-no-remote" "-profile" "/tmp/rust_mozprofilerAa753"
+1635269191538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerAa753/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45623/devtools/browser/3382ddef-541d-4210-a4ac-d3f61fc9ee1f
+1635269192774	Marionette	INFO	Listening on port 45895
+1635269192819	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269193049	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269340433	Marionette	INFO	Stopped listening on port 45895
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269340816	geckodriver	INFO	Listening on 127.0.0.1:45299
+1635269340828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43815" "-no-remote" "-profile" "/tmp/rust_mozprofileQlPZ0P"
+1635269341707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQlPZ0P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43815/devtools/browser/bf3627b4-8768-4bd5-91b9-a4a614ab604c
+1635269343004	Marionette	INFO	Listening on port 44199
+1635269343057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269343258	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269431906	Marionette	INFO	Stopped listening on port 44199
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269432556	geckodriver	INFO	Listening on 127.0.0.1:47469
+1635269432566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53005" "-no-remote" "-profile" "/tmp/rust_mozprofileRAkBnl"
+1635269433520	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRAkBnl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53005/devtools/browser/af40ddd2-f431-45da-8fbc-6304fa98307e
+1635269434806	Marionette	INFO	Listening on port 41735
+1635269434892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269435089	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269504346	Marionette	INFO	Stopped listening on port 41735
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269504928	geckodriver	INFO	Listening on 127.0.0.1:42979
+1635269504932	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40853" "-no-remote" "-profile" "/tmp/rust_mozprofileOS7O8Z"
+1635269505883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOS7O8Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40853/devtools/browser/ec436759-a8b2-4215-8f63-e037186c0073
+1635269506938	Marionette	INFO	Listening on port 39899
+1635269507076	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269507227	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269596022	Marionette	INFO	Stopped listening on port 39899
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269596602	geckodriver	INFO	Listening on 127.0.0.1:39113
+1635269596606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58799" "-no-remote" "-profile" "/tmp/rust_mozprofileCroC3B"
+1635269597568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCroC3B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58799/devtools/browser/b34b5a47-79de-4d28-a205-d61aebd10eec
+1635269598758	Marionette	INFO	Listening on port 37631
+1635269598823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269599016	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269694169	Marionette	INFO	Stopped listening on port 37631
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269694752	geckodriver	INFO	Listening on 127.0.0.1:60631
+1635269694755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51815" "-no-remote" "-profile" "/tmp/rust_mozprofilenemvBF"
+1635269695704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenemvBF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51815/devtools/browser/fa5766a6-7739-4809-b28d-f40fb50a0d43
+1635269696989	Marionette	INFO	Listening on port 45315
+1635269697077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269697281	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269755081	Marionette	INFO	Stopped listening on port 45315
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635269755650	geckodriver	INFO	Listening on 127.0.0.1:36715
+1635269755653	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56465" "-no-remote" "-profile" "/tmp/rust_mozprofileUyY8qa"
+1635269756594	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUyY8qa/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56465/devtools/browser/c4d093e8-c22d-4449-8ffd-63a3b12dc580
+1635269757851	Marionette	INFO	Listening on port 33643
+1635269757874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269759013	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635269880526	Marionette	INFO	Stopped listening on port 33643
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635269880903	geckodriver	INFO	Listening on 127.0.0.1:34101
+1635269880910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54819" "-no-remote" "-profile" "/tmp/rust_mozprofilejW3uYw"
+1635269881823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejW3uYw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54819/devtools/browser/58587e79-5469-46d4-8d5d-a02fadb1a847
+1635269882922	Marionette	INFO	Listening on port 33149
+1635269883056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635269883240	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635270276086	Marionette	INFO	Stopped listening on port 33149
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635270276455	geckodriver	INFO	Listening on 127.0.0.1:42147
+1635270276460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53661" "-no-remote" "-profile" "/tmp/rust_mozprofilejy7Ve1"
+1635270277257	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejy7Ve1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53661/devtools/browser/bc8d6cd8-ff6c-4a38-9dc0-79c38c054c7c
+1635270278321	Marionette	INFO	Listening on port 42253
+1635270278377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635270278569	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635270444591	Marionette	INFO	Stopped listening on port 42253
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635270446758	geckodriver	INFO	Listening on 127.0.0.1:35631
+1635270446766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "32789" "-no-remote" "-profile" "/tmp/rust_mozprofileyYQBQf"
+1635270447507	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyYQBQf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:32789/devtools/browser/33b1ceba-3018-41b0-afc7-08626c157f3b
+1635270448589	Marionette	INFO	Listening on port 37375
+1635270448690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635270448868	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635270498209	Marionette	INFO	Stopped listening on port 37375
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635270498777	geckodriver	INFO	Listening on 127.0.0.1:42131
+1635270498786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57897" "-no-remote" "-profile" "/tmp/rust_mozprofilejF2c6L"
+1635270499707	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejF2c6L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57897/devtools/browser/4fe401c3-af41-4d04-81c3-3b4ceda53865
+1635270500844	Marionette	INFO	Listening on port 34749
+1635270500903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635270501053	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635270589478	Marionette	INFO	Stopped listening on port 34749
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635270589935	geckodriver	INFO	Listening on 127.0.0.1:42433
+1635270589938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33911" "-no-remote" "-profile" "/tmp/rust_mozprofileraB0hn"
+1635270590728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileraB0hn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33911/devtools/browser/f33eadf1-7147-490b-8064-234739248cf1
+1635270591834	Marionette	INFO	Listening on port 45175
+1635270591855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635270592028	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635270753685	geckodriver	INFO	Listening on 127.0.0.1:34511
+1635270753688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42747" "-no-remote" "-profile" "/tmp/rust_mozprofilehKBb0f"
+1635270754542	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehKBb0f/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42747/devtools/browser/4525ec18-1214-4923-b6b5-5d99ffce417a
+1635270755636	Marionette	INFO	Listening on port 37975
+1635270755703	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635270755862	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1635270964780	geckodriver	INFO	Listening on 127.0.0.1:33565
+1635270964789	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53511" "-no-remote" "-profile" "/tmp/rust_mozprofile9V9F2u"
+1635270965663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9V9F2u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53511/devtools/browser/287ed35e-0c97-4667-8a76-4121dd026767
+1635270966755	Marionette	INFO	Listening on port 36805
+1635270966805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635270966953	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635270969759	Marionette	INFO	Stopped listening on port 45175
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635270971301	Marionette	INFO	Stopped listening on port 37975
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635272097677	geckodriver	INFO	Listening on 127.0.0.1:58983
+1635272097679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53183" "-no-remote" "-profile" "/tmp/rust_mozprofileXCrJy1"
+1635272098503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXCrJy1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53183/devtools/browser/98d339e0-53a4-4470-9a5c-7d32b8fb1045
+1635272099401	Marionette	INFO	Listening on port 46817
+1635272099527	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635272099758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635272131448	Marionette	INFO	Stopped listening on port 36805
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635272134429	Marionette	INFO	Stopped listening on port 46817
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635272757124	geckodriver	INFO	Listening on 127.0.0.1:42745
+1635272757127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46561" "-no-remote" "-profile" "/tmp/rust_mozprofileBe3JJL"
+1635272758073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBe3JJL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46561/devtools/browser/de8a8eb2-32c7-4eea-9718-880c342de998
+1635272759219	Marionette	INFO	Listening on port 40025
+1635272759248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635272759479	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635272800927	geckodriver	INFO	Listening on 127.0.0.1:41617
+1635272800931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58355" "-no-remote" "-profile" "/tmp/rust_mozprofilecJEuSe"
+1635272801775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecJEuSe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58355/devtools/browser/081abd77-ad89-400a-802a-e2bab3fff078
+1635272802995	Marionette	INFO	Listening on port 33853
+1635272803053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635272803210	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635272847740	Marionette	INFO	Stopped listening on port 33853
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635272855531	Marionette	INFO	Stopped listening on port 40025
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1635280924631	geckodriver	INFO	Listening on 127.0.0.1:38883
+1635280924633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46515" "-no-remote" "-profile" "/tmp/rust_mozprofileKPxLPg"
+1635280925412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKPxLPg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46515/devtools/browser/5c278939-0b49-4e2f-a1cb-b7c463ebd215
+1635280926502	Marionette	INFO	Listening on port 44699
+1635280926574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635280926770	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281102802	geckodriver	INFO	Listening on 127.0.0.1:45783
+1635281102809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55145" "-no-remote" "-profile" "/tmp/rust_mozprofileTn2Uw6"
+1635281103644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTn2Uw6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55145/devtools/browser/2ff40cfe-c36e-42a0-b19d-25083a09ee9b
+1635281104665	Marionette	INFO	Listening on port 37901
+1635281104729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281104964	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281147100	geckodriver	INFO	Listening on 127.0.0.1:34153
+1635281147108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38943" "-no-remote" "-profile" "/tmp/rust_mozprofileUpVMWC"
+1635281147918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUpVMWC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38943/devtools/browser/5c1a9ca9-bc27-4e6d-8b0a-ab9ff7fd1fbc
+1635281149004	Marionette	INFO	Listening on port 33411
+1635281149029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281149204	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281175949	geckodriver	INFO	Listening on 127.0.0.1:48193
+1635281175960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36395" "-no-remote" "-profile" "/tmp/rust_mozprofileavZhty"
+1635281176926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileavZhty/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36395/devtools/browser/4eb76778-acd4-4f1e-a31f-8aac1330f5dc
+1635281178087	Marionette	INFO	Listening on port 42253
+1635281178214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281178354	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281196575	Marionette	INFO	Stopped listening on port 42253
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281197074	geckodriver	INFO	Listening on 127.0.0.1:40321
+1635281197082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50489" "-no-remote" "-profile" "/tmp/rust_mozprofileF9J6NL"
+1635281198004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF9J6NL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50489/devtools/browser/0ddd838b-9f64-4a67-98e5-9e4a644ad89f
+1635281199063	Marionette	INFO	Listening on port 42049
+1635281199107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281199296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281307640	Marionette	INFO	Stopped listening on port 42049
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281308137	geckodriver	INFO	Listening on 127.0.0.1:55331
+1635281308148	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38521" "-no-remote" "-profile" "/tmp/rust_mozprofile6CT8l7"
+1635281309021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6CT8l7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38521/devtools/browser/157d0f89-5d36-4a37-a2b3-32726458359d
+1635281310199	Marionette	INFO	Listening on port 43649
+1635281310271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281310431	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635281509413	Marionette	INFO	Stopped listening on port 43649
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281509800	geckodriver	INFO	Listening on 127.0.0.1:55769
+1635281509807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37101" "-no-remote" "-profile" "/tmp/rust_mozprofilewnkeLk"
+1635281510655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewnkeLk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37101/devtools/browser/cfd5f4df-7196-443e-9447-5d22422fe471
+1635281511642	Marionette	INFO	Listening on port 36887
+1635281511753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281511934	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635281607160	Marionette	INFO	Stopped listening on port 36887
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635281607642	geckodriver	INFO	Listening on 127.0.0.1:52213
+1635281607652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43043" "-no-remote" "-profile" "/tmp/rust_mozprofileJ6Yh1s"
+1635281608421	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ6Yh1s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43043/devtools/browser/3a3115d0-effb-4c14-b225-a4d21bebd616
+1635281609453	Marionette	INFO	Listening on port 36225
+1635281609474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281609662	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281704485	Marionette	INFO	Stopped listening on port 36225
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1635281704919	geckodriver	INFO	Listening on 127.0.0.1:56465
+1635281704922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59865" "-no-remote" "-profile" "/tmp/rust_mozprofile8VPGk3"
+1635281705633	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8VPGk3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59865/devtools/browser/8bf5c37a-1e7c-47c9-89c3-cb3dd395deb2
+1635281706660	Marionette	INFO	Listening on port 39505
+1635281706750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281706886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281794559	Marionette	INFO	Stopped listening on port 39505
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0007,name=PHttpChannel::Msg_RemoveCorsPreflightCacheEntry) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281795133	geckodriver	INFO	Listening on 127.0.0.1:37085
+1635281795139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35437" "-no-remote" "-profile" "/tmp/rust_mozprofile9r3gJ4"
+1635281795954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9r3gJ4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35437/devtools/browser/5f332237-2e7d-4bab-9a1d-ade26771b27a
+1635281796980	Marionette	INFO	Listening on port 42127
+1635281797072	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281797238	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281905277	Marionette	INFO	Stopped listening on port 42127
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281905706	geckodriver	INFO	Listening on 127.0.0.1:36729
+1635281905709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55623" "-no-remote" "-profile" "/tmp/rust_mozprofileOxEn8h"
+1635281906494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOxEn8h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55623/devtools/browser/2114ed91-eca6-49af-b513-deadae588cca
+1635281907388	Marionette	INFO	Listening on port 35283
+1635281907431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635281907607	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635281935667	Marionette	INFO	Stopped listening on port 44699
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281937755	Marionette	INFO	Stopped listening on port 37901
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635281939253	Marionette	INFO	Stopped listening on port 33411
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635282034510	Marionette	INFO	Stopped listening on port 35283
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635282035577	geckodriver	INFO	Listening on 127.0.0.1:58549
+1635282035588	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42207" "-no-remote" "-profile" "/tmp/rust_mozprofileDrq1rp"
+1635282036387	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDrq1rp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42207/devtools/browser/167c9a15-4947-41a3-acbe-33f5e167aeb8
+1635282037303	Marionette	INFO	Listening on port 35699
+1635282037408	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635282037593	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635282433671	geckodriver	INFO	Listening on 127.0.0.1:37605
+1635282433682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60851" "-no-remote" "-profile" "/tmp/rust_mozprofilekPoZbN"
+1635282434462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekPoZbN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60851/devtools/browser/1d6d1bcc-022a-43e7-a798-b90054c48061
+1635282435449	Marionette	INFO	Listening on port 36325
+1635282435497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635282435725	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635282575778	Marionette	INFO	Stopped listening on port 35699
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635282757409	Marionette	INFO	Stopped listening on port 36325
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635282757754	geckodriver	INFO	Listening on 127.0.0.1:40941
+1635282757757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33793" "-no-remote" "-profile" "/tmp/rust_mozprofiletUy7rq"
+1635282758592	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletUy7rq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33793/devtools/browser/1fd1db4a-9fb3-4069-ad5d-4c0cb270e760
+1635282759512	Marionette	INFO	Listening on port 38761
+1635282759581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635282759781	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635283079042	Marionette	INFO	Stopped listening on port 38761
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635283080205	geckodriver	INFO	Listening on 127.0.0.1:34093
+1635283080215	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36177" "-no-remote" "-profile" "/tmp/rust_mozprofileoMk66S"
+1635283080969	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoMk66S/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36177/devtools/browser/be9fa9cf-1085-41b8-a2c7-f69e45bbe5c9
+1635283081878	Marionette	INFO	Listening on port 43237
+1635283081957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635283082147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635284376063	Marionette	INFO	Stopped listening on port 43237
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635284376449	geckodriver	INFO	Listening on 127.0.0.1:60815
+1635284376453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46683" "-no-remote" "-profile" "/tmp/rust_mozprofilebmyVDR"
+1635284377250	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebmyVDR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46683/devtools/browser/9c36017c-8e86-4260-964b-ed3a5883c183
+1635284378219	Marionette	INFO	Listening on port 40565
+1635284378289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635284378489	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635285661551	Marionette	INFO	Stopped listening on port 40565
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635445335464	geckodriver	INFO	Listening on 127.0.0.1:46795
+1635445335970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42225" "-no-remote" "-profile" "/tmp/rust_mozprofileBtm0Ld"
+1635445336913	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBtm0Ld/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42225/devtools/browser/f2da76de-49ee-49b0-a971-749efe57bc21
+1635445338460	Marionette	INFO	Listening on port 37461
+1635445338500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635445338978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635445436507	Marionette	INFO	Stopped listening on port 37461
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635445437098	geckodriver	INFO	Listening on 127.0.0.1:34775
+1635445437102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37967" "-no-remote" "-profile" "/tmp/rust_mozprofilec9osFb"
+1635445438145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec9osFb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37967/devtools/browser/f6d04829-e704-441e-9cec-a49765502ab7
+1635445439339	Marionette	INFO	Listening on port 33871
+1635445439459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635445439805	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635445540297	Marionette	INFO	Stopped listening on port 33871
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635445655464	geckodriver	INFO	Listening on 127.0.0.1:40061
+1635445655467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57195" "-no-remote" "-profile" "/tmp/rust_mozprofileeFCw1T"
+1635445656311	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeFCw1T/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57195/devtools/browser/62d31a00-6916-44bc-a3a8-6f8923d6181b
+1635445657516	Marionette	INFO	Listening on port 40131
+1635445657617	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635445657907	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635445755621	geckodriver	INFO	Listening on 127.0.0.1:59607
+1635445755626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44731" "-no-remote" "-profile" "/tmp/rust_mozprofileqaEkBg"
+1635445756604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqaEkBg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44731/devtools/browser/25c3fa67-ccc2-4a2f-8d1d-6ae41578d062
+1635445757781	Marionette	INFO	Listening on port 44229
+1635445757845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635445758625	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635445856805	Marionette	INFO	Stopped listening on port 44229
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635445857391	geckodriver	INFO	Listening on 127.0.0.1:44649
+1635445857400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52001" "-no-remote" "-profile" "/tmp/rust_mozprofileKa0oxD"
+1635445858382	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKa0oxD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52001/devtools/browser/b50fe3bb-067e-47a7-bb6b-c9d7a44ced6e
+1635445859651	Marionette	INFO	Listening on port 41427
+1635445859721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635445860006	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635445956488	Marionette	INFO	Stopped listening on port 41427
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635445958761	geckodriver	INFO	Listening on 127.0.0.1:52013
+1635445958764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60745" "-no-remote" "-profile" "/tmp/rust_mozprofileP1priM"
+1635445959724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileP1priM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60745/devtools/browser/d534bc5c-c9eb-4a72-ae97-ebc62236f2d3
+1635445960922	Marionette	INFO	Listening on port 37481
+1635445960996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635445961325	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635446015287	Marionette	INFO	Stopped listening on port 37481
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635446015873	geckodriver	INFO	Listening on 127.0.0.1:40261
+1635446015876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48317" "-no-remote" "-profile" "/tmp/rust_mozprofilejsNLfo"
+1635446016840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejsNLfo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48317/devtools/browser/be49d450-a3f9-4692-84fc-f743611c7341
+1635446017941	Marionette	INFO	Listening on port 37681
+1635446018006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635446018407	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635446072534	Marionette	INFO	Stopped listening on port 37681
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6A0025,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635446073095	geckodriver	INFO	Listening on 127.0.0.1:59335
+1635446073099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38741" "-no-remote" "-profile" "/tmp/rust_mozprofileaVdTOP"
+1635446074092	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaVdTOP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38741/devtools/browser/dd1bbc07-4ebc-4fbd-bf35-47662548a2b8
+1635446075319	Marionette	INFO	Listening on port 37435
+1635446075461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635446075820	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635446132634	Marionette	INFO	Stopped listening on port 37435
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635446133202	geckodriver	INFO	Listening on 127.0.0.1:47979
+1635446133205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56521" "-no-remote" "-profile" "/tmp/rust_mozprofileJtnJuz"
+1635446134290	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJtnJuz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56521/devtools/browser/9ada8b63-69bc-43d1-b2c2-99152e32f224
+1635446135551	Marionette	INFO	Listening on port 45433
+1635446135633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635446135979	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635446192122	Marionette	INFO	Stopped listening on port 45433
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635446197866	geckodriver	INFO	Listening on 127.0.0.1:60457
+1635446197869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37753" "-no-remote" "-profile" "/tmp/rust_mozprofile1EKsMp"
+1635446198832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1EKsMp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37753/devtools/browser/f2b3473e-896d-4e94-9e65-34b5ade7e2eb
+1635446200100	Marionette	INFO	Listening on port 36301
+1635446200198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635446200498	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635452168017	geckodriver	INFO	Listening on 127.0.0.1:48467
+1635452168523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41697" "-no-remote" "-profile" "/tmp/rust_mozprofileVMTXUA"
+1635452169254	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVMTXUA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41697/devtools/browser/98ea8f67-a905-4d35-8d85-4e451857e6c2
+1635452170226	Marionette	INFO	Listening on port 39045
+1635452170241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635452170644	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635452363833	geckodriver	INFO	Listening on 127.0.0.1:46851
+1635452363835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47367" "-no-remote" "-profile" "/tmp/rust_mozprofileYpPZCR"
+1635452364557	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYpPZCR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47367/devtools/browser/872bd5b3-4888-4abe-bc38-a54e9b803e9f
+1635452365452	Marionette	INFO	Listening on port 36301
+1635452365597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635452365859	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635452636048	geckodriver	INFO	Listening on 127.0.0.1:39629
+1635452636051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52881" "-no-remote" "-profile" "/tmp/rust_mozprofile0klYEz"
+1635452636736	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0klYEz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52881/devtools/browser/27ceaae2-6f20-495c-9c89-a3bb79ad9b85
+1635452637735	Marionette	INFO	Listening on port 40225
+1635452637764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635452638193	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635452719104	geckodriver	INFO	Listening on 127.0.0.1:41629
+1635452719107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39467" "-no-remote" "-profile" "/tmp/rust_mozprofileHTPUPj"
+1635452719866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHTPUPj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39467/devtools/browser/f760900f-b1d7-43a7-9e8e-ead144afc6de
+1635452721052	Marionette	INFO	Listening on port 35837
+1635452721128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635452721426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635452729196	Marionette	INFO	Stopped listening on port 40225
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635452920238	Marionette	INFO	Stopped listening on port 35837
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635452920598	geckodriver	INFO	Listening on 127.0.0.1:54711
+1635452920610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47565" "-no-remote" "-profile" "/tmp/rust_mozprofilePuQqMg"
+1635452921461	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePuQqMg/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:47565/devtools/browser/fdadd271-adcb-447b-b585-73efd1787050
+1635452922485	Marionette	INFO	Listening on port 46079
+1635452922524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635452926467	Marionette	INFO	Stopped listening on port 46079
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635453329550	geckodriver	INFO	Listening on 127.0.0.1:52237
+1635453329552	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47435" "-no-remote" "-profile" "/tmp/rust_mozprofilespijnA"
+1635453330264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilespijnA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47435/devtools/browser/c0655757-c3e4-41d8-adaa-2798eb8ca2aa
+1635453331133	Marionette	INFO	Listening on port 44547
+1635453331182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635453331630	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635453381664	geckodriver	INFO	Listening on 127.0.0.1:33981
+1635453381666	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40651" "-no-remote" "-profile" "/tmp/rust_mozprofileQZmMjY"
+1635453382374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQZmMjY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40651/devtools/browser/a66cb0d3-197b-44f9-ab30-724eca064177
+1635453383365	Marionette	INFO	Listening on port 38311
+1635453383410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635453384746	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635453509115	Marionette	INFO	Stopped listening on port 38311
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635453509489	geckodriver	INFO	Listening on 127.0.0.1:50039
+1635453509496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44393" "-no-remote" "-profile" "/tmp/rust_mozprofileBNy3uO"
+1635453510269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBNy3uO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44393/devtools/browser/2219b83a-12ce-4f27-910f-0605c86fdfd7
+1635453511281	Marionette	INFO	Listening on port 38919
+1635453511310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635453511616	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635453902050	geckodriver	INFO	Listening on 127.0.0.1:41601
+1635453902053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38943" "-no-remote" "-profile" "/tmp/rust_mozprofilegLACBi"
+1635453902777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegLACBi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38943/devtools/browser/83ba0df3-ce7a-44bf-bd36-eaf2e4549cc2
+1635453903927	Marionette	INFO	Listening on port 33269
+1635453903977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635453904387	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635453946267	Marionette	INFO	Stopped listening on port 44547
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635453951754	Marionette	INFO	Stopped listening on port 38919
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635454044324	Marionette	INFO	Stopped listening on port 33269
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635454044665	geckodriver	INFO	Listening on 127.0.0.1:46123
+1635454044668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35191" "-no-remote" "-profile" "/tmp/rust_mozprofilepMCzBt"
+1635454045482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepMCzBt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35191/devtools/browser/de431b06-44ea-49e1-af90-dde30db88c13
+1635454046415	Marionette	INFO	Listening on port 38451
+1635454046487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635454046777	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635454120731	Marionette	INFO	Stopped listening on port 38451
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635454127250	geckodriver	INFO	Listening on 127.0.0.1:54963
+1635454127256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35071" "-no-remote" "-profile" "/tmp/rust_mozprofileUEh25O"
+1635454128091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUEh25O/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35071/devtools/browser/7f3ec928-d116-40ad-ae18-a2ff6754651f
+1635454129118	Marionette	INFO	Listening on port 40041
+1635454129173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635454129487	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635454273190	Marionette	INFO	Stopped listening on port 40041
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635454273543	geckodriver	INFO	Listening on 127.0.0.1:57013
+1635454273548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43967" "-no-remote" "-profile" "/tmp/rust_mozprofileSEQ1eB"
+1635454274370	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSEQ1eB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43967/devtools/browser/8711d5b2-e4e2-49cc-8dcc-6ac795d371cb
+1635454275264	Marionette	INFO	Listening on port 45385
+1635454275407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635454275688	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635454390648	Marionette	INFO	Stopped listening on port 45385
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635454398508	geckodriver	INFO	Listening on 127.0.0.1:49481
+1635454398512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46211" "-no-remote" "-profile" "/tmp/rust_mozprofilepYbD9o"
+1635454399333	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepYbD9o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46211/devtools/browser/14ea36e6-9c21-4278-841b-bdb2e05d149c
+1635454400392	Marionette	INFO	Listening on port 44399
+1635454400427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635454400747	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635454540588	Marionette	INFO	Stopped listening on port 44399
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635454540946	geckodriver	INFO	Listening on 127.0.0.1:60887
+1635454540955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36547" "-no-remote" "-profile" "/tmp/rust_mozprofile7gmhAK"
+1635454541795	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7gmhAK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36547/devtools/browser/62429f82-1be3-4612-9a2f-1a0d5e77752b
+1635454542742	Marionette	INFO	Listening on port 37851
+1635454542770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635454543092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635454686941	Marionette	INFO	Stopped listening on port 37851
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635454692075	geckodriver	INFO	Listening on 127.0.0.1:41189
+1635454692086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41769" "-no-remote" "-profile" "/tmp/rust_mozprofileMmL9qc"
+1635454692940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMmL9qc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41769/devtools/browser/dfcf0f77-659b-46ae-99ba-4c61ed67cf00
+1635454693907	Marionette	INFO	Listening on port 45691
+1635454694027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635454694370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+Unflushed glGetGraphicsResetStatus: 0x92bb
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+1635506613910	Marionette	INFO	Stopped listening on port 45691
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635506754044	geckodriver	INFO	Listening on 127.0.0.1:55719
+1635506754047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51063" "-no-remote" "-profile" "/tmp/rust_mozprofileQjDvFs"
+1635506755049	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQjDvFs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51063/devtools/browser/61c64c3e-be67-4a52-92ed-6768ab483235
+1635506756270	Marionette	INFO	Listening on port 36863
+1635506756373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635506756630	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635506885569	Marionette	INFO	Stopped listening on port 36863
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635506886165	geckodriver	INFO	Listening on 127.0.0.1:37629
+1635506886172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41343" "-no-remote" "-profile" "/tmp/rust_mozprofiles25Ka7"
+1635506887128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles25Ka7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41343/devtools/browser/15688481-18e5-4aa6-b053-680e91f17221
+1635506888187	Marionette	INFO	Listening on port 34319
+1635506888315	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635506888539	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635507018456	Marionette	INFO	Stopped listening on port 34319
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635507019461	geckodriver	INFO	Listening on 127.0.0.1:59213
+1635507019464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52347" "-no-remote" "-profile" "/tmp/rust_mozprofilepELQ7g"
+1635507020367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepELQ7g/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52347/devtools/browser/205c14ad-2ac7-45d5-8869-ec3073e77f59
+1635507021614	Marionette	INFO	Listening on port 45957
+1635507021690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635507021870	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635507072137	Marionette	INFO	Stopped listening on port 45957
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635507074356	geckodriver	INFO	Listening on 127.0.0.1:51875
+1635507074367	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55959" "-no-remote" "-profile" "/tmp/rust_mozprofileLOW5g6"
+1635507075282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLOW5g6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55959/devtools/browser/1f249515-98a4-4cbc-8823-e587b9aae895
+1635507076579	Marionette	INFO	Listening on port 36771
+1635507076715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635507076935	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635507822074	geckodriver	INFO	Listening on 127.0.0.1:38809
+1635507822086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45127" "-no-remote" "-profile" "/tmp/rust_mozprofilextG0XK"
+1635507822866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilextG0XK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45127/devtools/browser/42121241-b962-4f3a-904a-e6e0b84bbf58
+1635507823945	Marionette	INFO	Listening on port 42007
+1635507824020	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635507824240	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635507948078	Marionette	INFO	Stopped listening on port 42007
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635507948447	geckodriver	INFO	Listening on 127.0.0.1:46707
+1635507948453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56467" "-no-remote" "-profile" "/tmp/rust_mozprofileKygZeu"
+1635507949335	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKygZeu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56467/devtools/browser/adcbcf91-f852-41a6-bf73-384be4752bf3
+1635507950273	Marionette	INFO	Listening on port 43873
+1635507950399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635507950551	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635508074398	Marionette	INFO	Stopped listening on port 43873
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635509795544	geckodriver	INFO	Listening on 127.0.0.1:54813
+1635509795547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60569" "-no-remote" "-profile" "/tmp/rust_mozprofilequkhAO"
+1635509796315	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilequkhAO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60569/devtools/browser/1e460f6c-e990-43ec-8835-e8fd53737454
+1635509797278	Marionette	INFO	Listening on port 44033
+1635509797362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635509797573	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635509879497	geckodriver	INFO	Listening on 127.0.0.1:47151
+1635509879508	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33405" "-no-remote" "-profile" "/tmp/rust_mozprofileyswKsx"
+1635509880388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyswKsx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33405/devtools/browser/eaa9aae0-77d4-4cba-b162-9b17ee38e645
+1635509881437	Marionette	INFO	Listening on port 40817
+1635509881549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635509881699	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635510025275	Marionette	INFO	Stopped listening on port 40817
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635510025628	geckodriver	INFO	Listening on 127.0.0.1:45863
+1635510025635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49923" "-no-remote" "-profile" "/tmp/rust_mozprofileWod4Cn"
+1635510026422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWod4Cn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49923/devtools/browser/8cbe807d-689d-4fd8-8afa-01f2720c2b57
+1635510027306	Marionette	INFO	Listening on port 44011
+1635510027350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635510027525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635510169841	Marionette	INFO	Stopped listening on port 44011
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635510184282	geckodriver	INFO	Listening on 127.0.0.1:59877
+1635510184285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59719" "-no-remote" "-profile" "/tmp/rust_mozprofile4i5hkq"
+1635510185080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4i5hkq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59719/devtools/browser/8fea9421-df9f-409a-bd07-d35a4c50b5f1
+1635510185978	Marionette	INFO	Listening on port 33959
+1635510185999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635510186153	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635510304309	Marionette	INFO	Stopped listening on port 33959
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635510304854	geckodriver	INFO	Listening on 127.0.0.1:51989
+1635510304856	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45287" "-no-remote" "-profile" "/tmp/rust_mozprofile6HUgYp"
+1635510305575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6HUgYp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45287/devtools/browser/14967444-f36b-4a72-8e8b-e1120fddcba1
+1635510306595	Marionette	INFO	Listening on port 34179
+1635510306683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635510306878	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635510435656	Marionette	INFO	Stopped listening on port 34179
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635592609890	geckodriver	INFO	Listening on 127.0.0.1:49615
+1635592610399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39301" "-no-remote" "-profile" "/tmp/rust_mozprofileFB98PI"
+1635592611508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFB98PI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39301/devtools/browser/47905f12-a33d-4b4c-82c7-a01e8b5d37be
+1635592613141	Marionette	INFO	Listening on port 43989
+1635592613224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635592613507	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635592664582	Marionette	INFO	Stopped listening on port 43989
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635592667533	geckodriver	INFO	Listening on 127.0.0.1:33339
+1635592667544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57535" "-no-remote" "-profile" "/tmp/rust_mozprofileiuw8la"
+1635592668648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiuw8la/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57535/devtools/browser/cb1ecb20-86d6-4441-9965-a158ce8a1280
+1635592670248	Marionette	INFO	Listening on port 46167
+1635592670283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635592670466	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635592693038	geckodriver	INFO	Listening on 127.0.0.1:54771
+1635592693041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42631" "-no-remote" "-profile" "/tmp/rust_mozprofilexhnoSK"
+1635592693988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexhnoSK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42631/devtools/browser/2c068db9-0b8f-405a-8909-1efe09e16812
+1635592695229	Marionette	INFO	Listening on port 39545
+1635592695260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635592695465	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635592745576	Marionette	INFO	Stopped listening on port 39545
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635592747923	geckodriver	INFO	Listening on 127.0.0.1:33981
+1635592747934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36237" "-no-remote" "-profile" "/tmp/rust_mozprofilexQmHUw"
+1635592748824	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexQmHUw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36237/devtools/browser/385c6eef-ce23-4580-bb21-b05c37c84bbd
+1635592749913	Marionette	INFO	Listening on port 37593
+1635592749958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635592750123	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1635592991442	geckodriver	INFO	Listening on 127.0.0.1:52311
+1635592991446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34995" "-no-remote" "-profile" "/tmp/rust_mozprofileGHKC0A"
+1635592992316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGHKC0A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34995/devtools/browser/4f4fd7d8-9a56-486a-95ef-2bcbaca6a9f3
+1635592993670	Marionette	INFO	Listening on port 39903
+1635592993779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635592994024	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635593063867	Marionette	INFO	Stopped listening on port 39903
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635593064576	geckodriver	INFO	Listening on 127.0.0.1:48711
+1635593064582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47867" "-no-remote" "-profile" "/tmp/rust_mozprofileoYaITP"
+1635593065616	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoYaITP/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47867/devtools/browser/74a61458-7d1b-4334-aff4-5822be4a7f2c
+1635593066939	Marionette	INFO	Listening on port 45941
+1635593067007	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635593067177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1635593146194	Marionette	INFO	Stopped listening on port 45941
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635593150088	geckodriver	INFO	Listening on 127.0.0.1:58757
+1635593150099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54667" "-no-remote" "-profile" "/tmp/rust_mozprofileQSNdDE"
+1635593151122	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQSNdDE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54667/devtools/browser/88046a72-048c-4aef-8c58-2ce8c95255cc
+1635593152381	Marionette	INFO	Listening on port 35513
+1635593152419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635593152580	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635593584447	Marionette	INFO	Stopped listening on port 35513
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1635593584850	geckodriver	INFO	Listening on 127.0.0.1:45221
+1635593584857	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48759" "-no-remote" "-profile" "/tmp/rust_mozprofileCd1zwo"
+1635593585817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCd1zwo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48759/devtools/browser/3710e6e4-ae4f-40de-8231-148e74ac27c2
+1635593586940	Marionette	INFO	Listening on port 33323
+1635593586975	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635593587176	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635593996730	Marionette	INFO	Stopped listening on port 33323
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636308732938	geckodriver	INFO	Listening on 127.0.0.1:36251
+1636308733444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "54269" "-no-remote" "-profile" "/tmp/rust_mozprofileW0Yvga"
+*** You are running in headless mode.
+1636308733795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW0Yvga/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54269/devtools/browser/c122a4fa-ffa5-4416-8cc3-f834110c9648
+1636308734703	Marionette	INFO	Listening on port 33343
+1636308734760	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636308734999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1636308835975	geckodriver	INFO	Listening on 127.0.0.1:40809
+1636308835981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "52217" "-no-remote" "-profile" "/tmp/rust_mozprofileXR1tqx"
+*** You are running in headless mode.
+1636308836309	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXR1tqx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52217/devtools/browser/97054fb1-f6ee-45e8-aa6b-45e6bf677564
+1636308837244	Marionette	INFO	Listening on port 32845
+1636308837313	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636308837493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1636308922573	geckodriver	INFO	Listening on 127.0.0.1:57023
+1636308922576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "48269" "-no-remote" "-profile" "/tmp/rust_mozprofileHGjUAq"
+*** You are running in headless mode.
+1636308922975	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHGjUAq/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48269/devtools/browser/181d1cb0-4e9b-44c1-940a-f5447ca880da
+1636308923866	Marionette	INFO	Listening on port 33017
+1636308923892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636308924050	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636309200620	Marionette	INFO	Stopped listening on port 33017
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636309201040	geckodriver	INFO	Listening on 127.0.0.1:48011
+1636309201043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33693" "-no-remote" "-profile" "/tmp/rust_mozprofileq0kFdj"
+*** You are running in headless mode.
+1636309201414	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileq0kFdj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33693/devtools/browser/49729839-1712-43fa-bc3f-fbd933f6ca26
+1636309202404	Marionette	INFO	Listening on port 42287
+1636309202459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636309202641	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636309491825	Marionette	INFO	Stopped listening on port 42287
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1636309497988	geckodriver	INFO	Listening on 127.0.0.1:60811
+1636309497990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "33965" "-no-remote" "-profile" "/tmp/rust_mozprofileWnMuVM"
+*** You are running in headless mode.
+1636309498332	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWnMuVM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33965/devtools/browser/60e96e56-865f-42aa-9238-1450f3b676c4
+1636309499295	Marionette	INFO	Listening on port 43775
+1636309499414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636309499627	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636310033392	Marionette	INFO	Stopped listening on port 43775
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1636310033734	geckodriver	INFO	Listening on 127.0.0.1:46479
+1636310033740	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "--remote-debugging-port" "34819" "-no-remote" "-profile" "/tmp/rust_mozprofileGYMyIt"
+*** You are running in headless mode.
+1636310034162	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGYMyIt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34819/devtools/browser/90905440-7b7d-4ab3-8c04-852ad6cb88b6
+1636310035078	Marionette	INFO	Listening on port 33871
+1636310035160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1636310035339	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1636310566321	Marionette	INFO	Stopped listening on port 33871
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
